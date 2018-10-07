@@ -1,6 +1,6 @@
 ---
-title: "Replication of Habits and beliefs that guide self-regulated learning: Do they vary with mindset? by Yan, V. X., Thai, K., Bjork, R. A. (2014, Journal of Applied Research in Memory and Cognition)"
-author: "Tay, Isabelle, Q. Y. (Graduate School of Education, Stanford University, Stanford, CA 94305)"
+title: "Replication of Judgments of Learning as Memory Modifiers by Soderstrom, N. C., Clark, C. T., Halamish, V. & Bjork, E. L. (2015, Journal of Experimental Psychology: Learning, Memory, and Cognition, Vol. 41, No. 2, 553-558)"
+author: "Tay, Isabelle, Q. Y. (Graduate School of Education, Stanford University, 485 Lasuen Mall, Stanford, CA 94305)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document:
