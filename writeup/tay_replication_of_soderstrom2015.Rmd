@@ -14,16 +14,20 @@ output:
 
 ##Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
-A short justification for your choice of experiment in terms of your research interests or research program (1 paragraph). This justification should tell us why you chose this particular result ??? this section is especially important if you are choosing a result outside of the standard MTurk/Psych Sci model.
-A description of the stimuli and procedures that will be required to conduct this experiment, and what the challenges will be (1-2 paragraphs).
 A link to the repository and to the original paper (as hosted in your repo). The goal is that we should be able to click on these links and review that your repo is formatted right and look at the original paper. 
-Metacognition is the cognition, or awareness, of one's own thought processes. A subset of metacognition, metamemory refers to "the processes and structures whereby people are able to examine the content of their memories, either prospectively or retrospectively, and make judgments or commmentaries about them" (Metcalfe & Dunlosky, 2008). 
 
-The chosen study focused on how growth mindset (in particular, that intelligence can be increased via effort) is related to habits and beliefs during self-study; namely, motivation to learn and beliefs in the benefits of self-testing. This study was selected as it is related to my reserch program - mindsets and motivational interventions related to the field of education. 
+Metacognition is the cognition, or awareness, of one's own thought processes. A subset of metacognition, metamemory refers to "the processes and structures whereby people are able to examine the content of their memories, either prospectively or retrospectively, and make judgments or commmentaries about them" (Metcalfe & Dunlosky, 2008). The chosen study by Soderstrom et al. (2015) focused on whether metacognitive judgments of learning (JOLs) affects memory of studied word-pairs, and found that making JOLs enhanced later memory of the word-pairs being judged, but only for strongly-associated rather than weakly-associated word-pairs. I chose this study because of my research goals: I hope to find effective interventions (which may be motivational or cognitive) in enhancing memory. As a social psychologist, I have limited experience in studies in cognition. Hence, I chose this study precisely because of the opportunities for learning something new but relevant to my research goals.
+
+[Here is the original paper.](https://github.com/isabelletay/soderstrom2015/blob/master/original_paper.pdf)
 
 
 ##Methods
+
+#Participants, materials, and procedure
+Following Experiment 2 in the study by Soderstrom and colleagues (2015), 60 participants were recruited online via Amazon's Mechanical Turk. "During the study phase, 60 cue-target word pairs were studied for a later memory test. Of these pairs, half were strongly related (e.g., blunt???sharp; pledge???promise) and half were weakly related (e.g., boxer???terrible; mercy???justice), according to the MRC Psycholinguistic Database (Coltheart, 1981). These pair types were randomly intermixed during study, with pairs exposed individually for 8 s on a computer screen. During exposure of each pair, the 20 participants assigned to the judgment condition were required to make a JOL to that pair by estimating the likelihood, on a 0???100% scale, of successfully recalling the pair on a later test, being prompted to do so half way through the exposure duration (i.e. after 4 s); whereas, the 20 participants assigned to the no-judgment condition made no JOLs during the 8-s exposure of each pair. Following the presentation of all pairs, participants played Tetris for 3 min and were then given a cued-recall test, in which they were presented with a sheet of paper containing all of the cue- words (in a randomized order) and asked to supply the appropriate target-word for each cue, being allowed 2.5 min for this test."
+
+The main challenges for me would be obtaining the appropriate word pairs from the MRC Psycholinguistic Database which are to be classified in either the strongly-related or weakly-related categories. Also, other challenges include setting up the test, which I plan to do on Qualtrics (includding embedding of the Tetris game), and using MTurk and other software in this course for the first time.
+
 
 ###Power Analysis
 
