@@ -18,6 +18,7 @@ output:
 A short justification for your choice of experiment in terms of your research interests or research program (1 paragraph). This justification should tell us why you chose this particular result ??? this section is especially important if you are choosing a result outside of the standard MTurk/Psych Sci model.
 A description of the stimuli and procedures that will be required to conduct this experiment, and what the challenges will be (1-2 paragraphs).
 A link to the repository and to the original paper (as hosted in your repo). The goal is that we should be able to click on these links and review that your repo is formatted right and look at the original paper. 
+Metacognition is the cognition, or awareness, of one's own thought processes. A subset of metacognition, metamemory refers to "the processes and structures whereby people are able to examine the content of their memories, either prospectively or retrospectively, and make judgments or commmentaries about them" (Metcalfe & Dunlosky, 2008). 
 
 The chosen study focused on how growth mindset (in particular, that intelligence can be increased via effort) is related to habits and beliefs during self-study; namely, motivation to learn and beliefs in the benefits of self-testing. This study was selected as it is related to my reserch program - mindsets and motivational interventions related to the field of education. 
 
